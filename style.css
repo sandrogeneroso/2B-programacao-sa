@@ -8,6 +8,11 @@
 }
 
 
+
+{
+    margin: 0%;
+    pading: 0%;
+}
 .cabecalho{
     background-color: var(--marrom-escuro);
     display: flex;
@@ -24,6 +29,11 @@
 }
 
 .logo{
-    width:10%
+    width:10%;
     margin: 10px;
+}
+
+.prinvipal{
+    background-color: var(--laranja) ;
+    color: var(--marrom-escuro)
 }
