@@ -36,4 +36,5 @@
 .prinvipal{
     background-color: var(--laranja) ;
     color: var(--marrom-escuro)
+    display: flex
 }
